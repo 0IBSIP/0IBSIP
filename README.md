@@ -31,7 +31,7 @@ I specialize in developing robust applications and maintaining well-documented c
 
 Here are some projects I'm proud of:
 
-- **[Project Name]** — Brief description of what this project does
+- **[OIBSIP/DataAnalytics-L1-EDARetailSales/]** — 
 - **[Project Name]** — Brief description of what this project does
 - **[Project Name]** — Brief description of what this project does
 
@@ -41,9 +41,9 @@ Here are some projects I'm proud of:
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](#) — Professional network
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhay-kumar-6ab6b12420?utm_source) — Professional network
 - 🐦 [Twitter](#) — Follow for updates
-- 📧 **Email:** [your.email@example.com](#)
+- 📧 **Email:** [abhaydhiman12325@gmail.com](abhaydhiman12325@gmail.com)
 - 🌍 **Website:** [your-website.com](#)
 
 ## 📝 Latest Activity
