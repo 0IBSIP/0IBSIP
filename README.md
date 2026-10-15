@@ -118,13 +118,13 @@ I'm continuing to improve my skills by practicing more, learning new techniques,
 
 👨‍💻 About Me
 
-Abhay Dhiman
+Abhay Kumar/OIBSIP 
 
 Aspiring Data Analyst | Python | Data Analytics | Data Visualization
 
 I'm interested in learning how data can help people and businesses understand problems and make better decisions.
 
-LinkedIn: Add your LinkedIn profile URL here.
+LinkedIn: https://www.linkedin.com/in/abhay-kumar-6ab6b1420?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 🙌 Thanks for Visiting!
 
