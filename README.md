@@ -125,6 +125,7 @@ Aspiring Data Analyst | Python | Data Analytics | Data Visualization
 I'm interested in learning how data can help people and businesses understand problems and make better decisions.
 
 Email ID: abhaydhiman12325@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/abhay-kumar-6ab6b1420?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 🙌 Thanks for Visiting!
